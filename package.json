@@ -2,7 +2,7 @@
   "dependencies": {
     "axios": "^0.24.0"
   },
-  "name": "githubapiwrapper",
+  "name": "simplejsgithubapiwrapper",
   "description": "Simple NodeJS Github API Wrapper",
   "version": "1.0.0",
   "main": "index.js",
