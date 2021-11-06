@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "axios": "^0.24.0"
-  }
+  },
+  "name": "githubapiwrapper",
+  "description": "Simple NodeJS Github API Wrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artlfmj/githubapiwrapper.git"
+  },
+  "keywords": [
+    "Github",
+    "API",
+    "Wrapper",
+    "Artlfmj"
+  ],
+  "author": "Artlfmj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artlfmj/githubapiwrapper/issues"
+  },
+  "homepage": "https://github.com/Artlfmj/githubapiwrapper#readme"
 }
