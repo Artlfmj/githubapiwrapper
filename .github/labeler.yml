@@ -1,0 +1,8 @@
+package : 
+- "*"
+
+typings : 
+- "src/typings/*"
+
+chore : 
+- "src/*"
