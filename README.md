@@ -38,8 +38,18 @@ https://github.com/artlfmj/githubapiwrapper
 ## Issues
 
 ## Changelog
-### v1.0.0
+## v2.0.0
+### Changed
+- Added `getRepoInfo`
+- Added `getRepoCommits`
+- Added `getRepoLanguages`
+- Added `getRepoContributors`
+- Converted package to ts
+
+## v1.0.0
+### Changed
 - Initial release
 
-
+## changelog-entry
+v2.0.0
 
